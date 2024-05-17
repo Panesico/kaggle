@@ -1,3 +1,0 @@
-# kaggle
-# asdasd
-# asdasd
