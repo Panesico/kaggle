@@ -1,0 +1,2 @@
+Finish Pandas course
+Start Intermediate Machine Learning course
