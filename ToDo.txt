@@ -1,2 +1,1 @@
-Start Data Visualization Course
 Start Feature Engineering Course
