@@ -3,4 +3,4 @@ Re-visit Time Series course
 Courses left:
 
 Geospatial analysis
-Reinforcement Learning
+Intro to game AI Reinforcement Learning
