@@ -2,3 +2,4 @@ Re-visit Time Series course
 
 Courses left:
 
+Geospatial analysis
