@@ -1,9 +1,1 @@
-Re-visit Time Series course
-
-Courses left:
-
-Geospatial analysis
-Intro to game AI and Reinforcement Learning
-Machine learning explainability
-Intro to SQL
-Advanced SQL
+Keep learning :)
